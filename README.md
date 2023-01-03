@@ -11,9 +11,9 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-An api for sending and accepting money via telebirr.
 
-## Features
+
+## About
 
 - An api for sending and accepting money via telebirr.
 
